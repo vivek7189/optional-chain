@@ -1,0 +1,24 @@
+{
+  "name": "eslint-plugin-use-optional-chain",
+  "version": "1.0.6",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "release": "standard-version",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^9.1.1",
+    "standard-version": "^9.5.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=8.18.0"
+  }
+}
